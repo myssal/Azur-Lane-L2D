@@ -1,0 +1,104 @@
+
+zhibojian.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+20w
+  rotate: false
+  xy: 239, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+basic
+  rotate: false
+  xy: 2, 132
+  size: 253, 346
+  orig: 253, 346
+  offset: 0, 0
+  index: -1
+c1
+  rotate: false
+  xy: 306, 152
+  size: 25, 114
+  orig: 25, 114
+  offset: 0, 0
+  index: -1
+c2
+  rotate: true
+  xy: 391, 160
+  size: 25, 114
+  orig: 25, 114
+  offset: 0, 0
+  index: -1
+c3
+  rotate: true
+  xy: 369, 65
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+c4
+  rotate: true
+  xy: 333, 187
+  size: 65, 77
+  orig: 65, 77
+  offset: 0, 0
+  index: -1
+d1
+  rotate: false
+  xy: 333, 135
+  size: 56, 50
+  orig: 56, 50
+  offset: 0, 0
+  index: -1
+d2
+  rotate: false
+  xy: 412, 202
+  size: 56, 50
+  orig: 56, 50
+  offset: 0, 0
+  index: -1
+daganxie
+  rotate: false
+  xy: 257, 350
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+o1
+  rotate: false
+  xy: 257, 152
+  size: 47, 114
+  orig: 47, 114
+  offset: 0, 0
+  index: -1
+o2
+  rotate: false
+  xy: 387, 364
+  size: 47, 114
+  orig: 47, 114
+  offset: 0, 0
+  index: -1
+o3
+  rotate: false
+  xy: 257, 268
+  size: 94, 80
+  orig: 94, 80
+  offset: 0, 0
+  index: -1
+o4
+  rotate: true
+  xy: 353, 254
+  size: 94, 80
+  orig: 94, 80
+  offset: 0, 0
+  index: -1
+sheguang
+  rotate: false
+  xy: 2, 2
+  size: 235, 128
+  orig: 235, 128
+  offset: 0, 0
+  index: -1

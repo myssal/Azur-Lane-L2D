@@ -1,0 +1,83 @@
+
+idol_quzhu.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4
+  rotate: true
+  xy: 375, 454
+  size: 53, 64
+  orig: 53, 64
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 2
+  size: 342, 220
+  orig: 342, 220
+  offset: 0, 0
+  index: -1
+qiqiu_11
+  rotate: true
+  xy: 58, 482
+  size: 25, 53
+  orig: 25, 53
+  offset: 0, 0
+  index: -1
+qiqiu_12
+  rotate: true
+  xy: 320, 479
+  size: 28, 53
+  orig: 28, 53
+  offset: 0, 0
+  index: -1
+qiqiu_13
+  rotate: true
+  xy: 189, 481
+  size: 26, 74
+  orig: 26, 74
+  offset: 0, 0
+  index: -1
+qiqiu_21
+  rotate: true
+  xy: 113, 482
+  size: 25, 74
+  orig: 25, 74
+  offset: 0, 0
+  index: -1
+qiqiu_22
+  rotate: true
+  xy: 265, 480
+  size: 27, 53
+  orig: 27, 53
+  offset: 0, 0
+  index: -1
+qiqiu_23
+  rotate: true
+  xy: 2, 482
+  size: 25, 54
+  orig: 25, 54
+  offset: 0, 0
+  index: -1
+qz01
+  rotate: false
+  xy: 2, 394
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1
+qz02
+  rotate: false
+  xy: 2, 309
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1
+qz03
+  rotate: false
+  xy: 2, 224
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1

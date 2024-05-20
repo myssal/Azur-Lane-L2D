@@ -1,0 +1,62 @@
+
+fengfan_ghost_S.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 172
+  size: 372, 275
+  orig: 372, 275
+  offset: 0, 0
+  index: -1
+pao_x1
+  rotate: false
+  xy: 356, 58
+  size: 24, 35
+  orig: 24, 35
+  offset: 0, 0
+  index: -1
+pao_x2
+  rotate: false
+  xy: 393, 32
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+pao_x3
+  rotate: true
+  xy: 356, 32
+  size: 24, 35
+  orig: 24, 35
+  offset: 0, 0
+  index: -1
+pao_x4
+  rotate: true
+  xy: 382, 69
+  size: 24, 35
+  orig: 24, 35
+  offset: 0, 0
+  index: -1
+qz01
+  rotate: true
+  xy: 376, 95
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1
+qz02
+  rotate: false
+  xy: 2, 87
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1
+qz03
+  rotate: false
+  xy: 2, 2
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+idol_zhongxun.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 615
+  size: 74, 54
+  orig: 74, 54
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 78, 583
+  size: 109, 86
+  orig: 109, 86
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 565, 2
+  size: 558, 309
+  orig: 558, 309
+  offset: 0, 0
+  index: -1
+zhuangshi1
+  rotate: false
+  xy: 2, 42
+  size: 559, 300
+  orig: 559, 300
+  offset: 0, 0
+  index: -1
+zx01
+  rotate: false
+  xy: 189, 562
+  size: 561, 107
+  orig: 561, 107
+  offset: 0, 0
+  index: -1
+zx02
+  rotate: false
+  xy: 2, 453
+  size: 561, 107
+  orig: 561, 107
+  offset: 0, 0
+  index: -1
+zx03
+  rotate: false
+  xy: 2, 344
+  size: 561, 107
+  orig: 561, 107
+  offset: 0, 0
+  index: -1

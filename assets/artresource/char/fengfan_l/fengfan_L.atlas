@@ -1,0 +1,139 @@
+
+fengfan_L.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 132
+  size: 577, 376
+  orig: 577, 376
+  offset: 0, 0
+  index: -1
+fan_t
+  rotate: true
+  xy: 819, 348
+  size: 160, 38
+  orig: 160, 38
+  offset: 0, 0
+  index: -1
+pao_x1
+  rotate: true
+  xy: 549, 111
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+pao_x10
+  rotate: false
+  xy: 555, 82
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+pao_x11
+  rotate: true
+  xy: 554, 2
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+pao_x12
+  rotate: true
+  xy: 526, 2
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+pao_x13
+  rotate: false
+  xy: 555, 35
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+pao_x14
+  rotate: true
+  xy: 527, 81
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+pao_x2
+  rotate: false
+  xy: 505, 73
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+pao_x3
+  rotate: false
+  xy: 505, 102
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+pao_x4
+  rotate: true
+  xy: 505, 31
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+pao_x5
+  rotate: false
+  xy: 534, 23
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+pao_x6
+  rotate: false
+  xy: 505, 2
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+pao_x7
+  rotate: false
+  xy: 527, 103
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+pao_x8
+  rotate: true
+  xy: 505, 52
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+pao_x9
+  rotate: true
+  xy: 535, 60
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+zl01
+  rotate: true
+  xy: 581, 7
+  size: 501, 117
+  orig: 501, 117
+  offset: 0, 0
+  index: -1
+zl02
+  rotate: false
+  xy: 2, 13
+  size: 501, 117
+  orig: 501, 117
+  offset: 0, 0
+  index: -1
+zl03
+  rotate: true
+  xy: 700, 7
+  size: 501, 117
+  orig: 501, 117
+  offset: 0, 0
+  index: -1

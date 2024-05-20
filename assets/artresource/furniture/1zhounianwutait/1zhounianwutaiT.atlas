@@ -1,0 +1,118 @@
+
+1zhounianwutaiT.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+D1
+  rotate: true
+  xy: 2, 21
+  size: 13, 23
+  orig: 13, 23
+  offset: 0, 0
+  index: -1
+D9
+  rotate: true
+  xy: 2, 21
+  size: 13, 23
+  orig: 13, 23
+  offset: 0, 0
+  index: -1
+D2
+  rotate: true
+  xy: 27, 21
+  size: 13, 24
+  orig: 13, 24
+  offset: 0, 0
+  index: -1
+D10
+  rotate: true
+  xy: 27, 21
+  size: 13, 24
+  orig: 13, 24
+  offset: 0, 0
+  index: -1
+D3
+  rotate: true
+  xy: 79, 20
+  size: 14, 24
+  orig: 14, 24
+  offset: 0, 0
+  index: -1
+D11
+  rotate: true
+  xy: 79, 20
+  size: 14, 24
+  orig: 14, 24
+  offset: 0, 0
+  index: -1
+D4
+  rotate: true
+  xy: 53, 21
+  size: 13, 24
+  orig: 13, 24
+  offset: 0, 0
+  index: -1
+D12
+  rotate: true
+  xy: 53, 21
+  size: 13, 24
+  orig: 13, 24
+  offset: 0, 0
+  index: -1
+D5
+  rotate: false
+  xy: 105, 4
+  size: 16, 30
+  orig: 16, 30
+  offset: 0, 0
+  index: -1
+D13
+  rotate: false
+  xy: 105, 4
+  size: 16, 30
+  orig: 16, 30
+  offset: 0, 0
+  index: -1
+D6
+  rotate: true
+  xy: 2, 3
+  size: 16, 30
+  orig: 16, 30
+  offset: 0, 0
+  index: -1
+D14
+  rotate: true
+  xy: 2, 3
+  size: 16, 30
+  orig: 16, 30
+  offset: 0, 0
+  index: -1
+D7
+  rotate: true
+  xy: 34, 3
+  size: 16, 30
+  orig: 16, 30
+  offset: 0, 0
+  index: -1
+D15
+  rotate: true
+  xy: 34, 3
+  size: 16, 30
+  orig: 16, 30
+  offset: 0, 0
+  index: -1
+D8
+  rotate: true
+  xy: 66, 2
+  size: 16, 30
+  orig: 16, 30
+  offset: 0, 0
+  index: -1
+D16
+  rotate: true
+  xy: 66, 2
+  size: 16, 30
+  orig: 16, 30
+  offset: 0, 0
+  index: -1

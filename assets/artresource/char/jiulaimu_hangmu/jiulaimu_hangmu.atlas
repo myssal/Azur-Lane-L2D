@@ -1,0 +1,90 @@
+
+jiulaimu_hangmu.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fazhangguashi
+  rotate: false
+  xy: 253, 84
+  size: 83, 124
+  orig: 83, 124
+  offset: 0, 0
+  index: -1
+feitan
+  rotate: false
+  xy: 2, 210
+  size: 488, 240
+  orig: 488, 240
+  offset: 0, 0
+  index: -1
+guahsi_1
+  rotate: false
+  xy: 338, 123
+  size: 118, 41
+  orig: 118, 41
+  offset: 0, 0
+  index: -1
+guahsi_2
+  rotate: true
+  xy: 981, 145
+  size: 119, 41
+  orig: 119, 41
+  offset: 0, 0
+  index: -1
+guahsi_3
+  rotate: false
+  xy: 253, 40
+  size: 120, 42
+  orig: 120, 42
+  offset: 0, 0
+  index: -1
+guahsi_4
+  rotate: false
+  xy: 338, 166
+  size: 118, 42
+  orig: 118, 42
+  offset: 0, 0
+  index: -1
+guangdian
+  rotate: false
+  xy: 869, 2
+  size: 135, 92
+  orig: 135, 92
+  offset: 0, 0
+  index: -1
+guantiao
+  rotate: false
+  xy: 700, 11
+  size: 167, 253
+  orig: 167, 253
+  offset: 0, 0
+  index: -1
+jiu
+  rotate: true
+  xy: 2, 29
+  size: 179, 249
+  orig: 179, 249
+  offset: 0, 0
+  index: -1
+mofazhen
+  rotate: true
+  xy: 869, 96
+  size: 168, 110
+  orig: 168, 110
+  offset: 0, 0
+  index: -1
+shimo
+  rotate: false
+  xy: 492, 62
+  size: 206, 202
+  orig: 206, 202
+  offset: 0, 0
+  index: -1
+yy
+  rotate: false
+  xy: 492, 266
+  size: 497, 184
+  orig: 497, 184
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+fengfan_zibao.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ji
+  rotate: false
+  xy: 209, 33
+  size: 213, 220
+  orig: 213, 220
+  offset: 0, 0
+  index: -1
+zd01
+  rotate: true
+  xy: 2, 29
+  size: 224, 67
+  orig: 224, 67
+  offset: 0, 0
+  index: -1
+zd02
+  rotate: true
+  xy: 71, 29
+  size: 224, 67
+  orig: 224, 67
+  offset: 0, 0
+  index: -1
+zd03
+  rotate: true
+  xy: 140, 29
+  size: 224, 67
+  orig: 224, 67
+  offset: 0, 0
+  index: -1
+zhadan_1
+  rotate: true
+  xy: 424, 128
+  size: 125, 78
+  orig: 125, 78
+  offset: 0, 0
+  index: -1
+zhadan_2
+  rotate: true
+  xy: 424, 2
+  size: 124, 77
+  orig: 124, 77
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+shanluan_CA.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 111
+  size: 728, 459
+  orig: 728, 459
+  offset: 0, 0
+  index: -1
+zx01
+  rotate: true
+  xy: 732, 9
+  size: 561, 107
+  orig: 561, 107
+  offset: 0, 0
+  index: -1
+zx02
+  rotate: true
+  xy: 841, 9
+  size: 561, 107
+  orig: 561, 107
+  offset: 0, 0
+  index: -1
+zx03
+  rotate: false
+  xy: 2, 2
+  size: 561, 107
+  orig: 561, 107
+  offset: 0, 0
+  index: -1

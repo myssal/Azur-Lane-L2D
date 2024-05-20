@@ -1,0 +1,55 @@
+
+idol_zhanlie.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3
+  rotate: false
+  xy: 2, 2
+  size: 78, 82
+  orig: 78, 82
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 505, 254
+  size: 68, 52
+  orig: 68, 52
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 324
+  size: 564, 321
+  orig: 564, 321
+  offset: 0, 0
+  index: -1
+zhuangshi1
+  rotate: false
+  xy: 2, 647
+  size: 565, 354
+  orig: 565, 354
+  offset: 0, 0
+  index: -1
+zl01
+  rotate: false
+  xy: 2, 205
+  size: 501, 117
+  orig: 501, 117
+  offset: 0, 0
+  index: -1
+zl02
+  rotate: false
+  xy: 2, 86
+  size: 501, 117
+  orig: 501, 117
+  offset: 0, 0
+  index: -1
+zl03
+  rotate: true
+  xy: 569, 500
+  size: 501, 117
+  orig: 501, 117
+  offset: 0, 0
+  index: -1

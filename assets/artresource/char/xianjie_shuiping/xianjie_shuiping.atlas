@@ -1,0 +1,13 @@
+
+xianjie_shuiping.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shuiping
+  rotate: false
+  xy: 2, 2
+  size: 154, 167
+  orig: 154, 167
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+jiulaimu_quzhu.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 169, 2
+  size: 316, 202
+  orig: 316, 202
+  offset: 0, 0
+  index: -1
+shuihua_1
+  rotate: false
+  xy: 213, 206
+  size: 209, 33
+  orig: 209, 33
+  offset: 0, 0
+  index: -1
+shuihua_2
+  rotate: false
+  xy: 213, 241
+  size: 209, 31
+  orig: 209, 31
+  offset: 0, 0
+  index: -1
+shuihua_3
+  rotate: false
+  xy: 2, 209
+  size: 209, 32
+  orig: 209, 32
+  offset: 0, 0
+  index: -1
+shuihua_4
+  rotate: false
+  xy: 2, 243
+  size: 209, 29
+  orig: 209, 29
+  offset: 0, 0
+  index: -1
+yy
+  rotate: false
+  xy: 2, 47
+  size: 165, 160
+  orig: 165, 160
+  offset: 0, 0
+  index: -1

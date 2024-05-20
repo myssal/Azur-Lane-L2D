@@ -1,0 +1,76 @@
+
+fengfan_ghost_yunshu.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 23
+  size: 293, 228
+  orig: 293, 228
+  offset: 0, 0
+  index: -1
+coin01
+  rotate: false
+  xy: 297, 180
+  size: 263, 71
+  orig: 263, 71
+  offset: 0, 0
+  index: -1
+coin02
+  rotate: false
+  xy: 297, 107
+  size: 263, 71
+  orig: 263, 71
+  offset: 0, 0
+  index: -1
+coin03
+  rotate: false
+  xy: 297, 34
+  size: 263, 71
+  orig: 263, 71
+  offset: 0, 0
+  index: -1
+guangyun1
+  rotate: true
+  xy: 562, 167
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+guangyun2
+  rotate: false
+  xy: 562, 210
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+guangyun3
+  rotate: false
+  xy: 562, 127
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+jinguang1
+  rotate: true
+  xy: 297, 8
+  size: 24, 38
+  orig: 24, 38
+  offset: 0, 0
+  index: -1
+jinguang2
+  rotate: true
+  xy: 33, 5
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+jinguang3
+  rotate: true
+  xy: 2, 2
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+shanluan_CL.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 147
+  size: 499, 330
+  orig: 499, 330
+  offset: 0, 0
+  index: -1
+body_t
+  rotate: false
+  xy: 2, 2
+  size: 462, 143
+  orig: 462, 143
+  offset: 0, 0
+  index: -1
+qz01
+  rotate: false
+  xy: 503, 394
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1
+qz02
+  rotate: false
+  xy: 503, 309
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1
+qz03
+  rotate: false
+  xy: 503, 224
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,165 @@
+
+chess_dian.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2-1
+  rotate: false
+  xy: 2, 306
+  size: 372, 275
+  orig: 372, 275
+  offset: 0, 0
+  index: -1
+2-2
+  rotate: false
+  xy: 181, 583
+  size: 372, 255
+  orig: 372, 255
+  offset: 0, 0
+  index: -1
+2-4
+  rotate: false
+  xy: 376, 227
+  size: 372, 275
+  orig: 372, 275
+  offset: 0, 0
+  index: -1
+2-5
+  rotate: false
+  xy: 555, 504
+  size: 372, 255
+  orig: 372, 255
+  offset: 0, 0
+  index: -1
+binjiao_1
+  rotate: true
+  xy: 215, 854
+  size: 64, 79
+  orig: 64, 79
+  offset: 0, 0
+  index: -1
+binjiao_2
+  rotate: true
+  xy: 118, 878
+  size: 40, 95
+  orig: 40, 95
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 577, 835
+  size: 118, 83
+  orig: 118, 83
+  offset: 0, 0
+  index: -1
+daimao
+  rotate: true
+  xy: 869, 761
+  size: 157, 108
+  orig: 157, 108
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 435, 840
+  size: 140, 78
+  orig: 140, 78
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 296, 844
+  size: 137, 74
+  orig: 137, 74
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 2, 2
+  size: 302, 341
+  orig: 302, 341
+  offset: 0, 0
+  index: -1
+hair_b
+  rotate: false
+  xy: 2, 879
+  size: 114, 39
+  orig: 114, 39
+  offset: 0, 0
+  index: -1
+qi1
+  rotate: true
+  xy: 697, 828
+  size: 90, 170
+  orig: 90, 170
+  offset: 0, 0
+  index: -1
+qi2
+  rotate: true
+  xy: 2, 780
+  size: 96, 177
+  orig: 96, 177
+  offset: 0, 0
+  index: -1
+
+chess_dian2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1-2
+  rotate: false
+  xy: 391, 407
+  size: 404, 376
+  orig: 404, 376
+  offset: 0, 0
+  index: -1
+1-3
+  rotate: true
+  xy: 380, 2
+  size: 403, 406
+  orig: 403, 406
+  offset: 0, 0
+  index: -1
+1-5
+  rotate: true
+  xy: 2, 37
+  size: 404, 376
+  orig: 404, 376
+  offset: 0, 0
+  index: -1
+2-3
+  rotate: false
+  xy: 2, 443
+  size: 387, 340
+  orig: 387, 340
+  offset: 0, 0
+  index: -1
+
+chess_dian3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1-1
+  rotate: false
+  xy: 573, 421
+  size: 441, 425
+  orig: 441, 425
+  offset: 0, 0
+  index: -1
+1-4
+  rotate: false
+  xy: 2, 2
+  size: 441, 425
+  orig: 441, 425
+  offset: 0, 0
+  index: -1
+chuan
+  rotate: true
+  xy: 2, 429
+  size: 417, 569
+  orig: 417, 569
+  offset: 0, 0
+  index: -1

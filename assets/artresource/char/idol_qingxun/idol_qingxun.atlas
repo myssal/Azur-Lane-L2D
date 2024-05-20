@@ -1,0 +1,41 @@
+
+idol_qingxun.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 477, 379
+  size: 79, 73
+  orig: 79, 73
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 2
+  size: 456, 303
+  orig: 456, 303
+  offset: 0, 0
+  index: -1
+qz01
+  rotate: false
+  xy: 307, 21
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1
+qz02
+  rotate: true
+  xy: 392, 106
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1
+qz03
+  rotate: true
+  xy: 307, 106
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1

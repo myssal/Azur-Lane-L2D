@@ -1,0 +1,48 @@
+
+shanluan_zibao.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+danyao
+  rotate: false
+  xy: 2, 2
+  size: 187, 45
+  orig: 187, 45
+  offset: 0, 0
+  index: -1
+huo
+  rotate: true
+  xy: 2, 49
+  size: 203, 148
+  orig: 203, 148
+  offset: 0, 0
+  index: -1
+ji
+  rotate: false
+  xy: 152, 149
+  size: 278, 103
+  orig: 278, 103
+  offset: 0, 0
+  index: -1
+zd01
+  rotate: true
+  xy: 432, 28
+  size: 224, 67
+  orig: 224, 67
+  offset: 0, 0
+  index: -1
+zd02
+  rotate: false
+  xy: 152, 80
+  size: 224, 67
+  orig: 224, 67
+  offset: 0, 0
+  index: -1
+zd03
+  rotate: false
+  xy: 191, 11
+  size: 224, 67
+  orig: 224, 67
+  offset: 0, 0
+  index: -1

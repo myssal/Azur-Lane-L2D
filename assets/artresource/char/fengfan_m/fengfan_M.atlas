@@ -1,0 +1,97 @@
+
+fengfan_M.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 126
+  size: 523, 345
+  orig: 523, 345
+  offset: 0, 0
+  index: -1
+fan_t
+  rotate: false
+  xy: 2, 2
+  size: 45, 37
+  orig: 45, 37
+  offset: 0, 0
+  index: -1
+pao_x1
+  rotate: true
+  xy: 88, 13
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+pao_x2
+  rotate: true
+  xy: 49, 12
+  size: 27, 37
+  orig: 27, 37
+  offset: 0, 0
+  index: -1
+pao_x3
+  rotate: true
+  xy: 128, 13
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+pao_x4
+  rotate: true
+  xy: 167, 13
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+pao_x5
+  rotate: true
+  xy: 206, 13
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+pao_x6
+  rotate: true
+  xy: 245, 13
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+pao_x7
+  rotate: false
+  xy: 283, 3
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+pao_x8
+  rotate: false
+  xy: 311, 3
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+qz01
+  rotate: true
+  xy: 527, 119
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1
+qz02
+  rotate: false
+  xy: 2, 41
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1
+qz03
+  rotate: false
+  xy: 356, 34
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+jiulaimu_zhanlie.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 15
+  size: 555, 444
+  orig: 555, 444
+  offset: 0, 0
+  index: -1
+yy
+  rotate: true
+  xy: 559, 2
+  size: 457, 124
+  orig: 457, 124
+  offset: 0, 0
+  index: -1

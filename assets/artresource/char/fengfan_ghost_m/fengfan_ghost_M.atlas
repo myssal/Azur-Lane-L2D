@@ -1,0 +1,104 @@
+
+fengfan_ghost_M.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 133
+  size: 514, 375
+  orig: 514, 375
+  offset: 0, 0
+  index: -1
+chushou_2
+  rotate: true
+  xy: 710, 450
+  size: 58, 64
+  orig: 58, 64
+  offset: 0, 0
+  index: -1
+fan_t
+  rotate: false
+  xy: 2, 2
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+pao_x1
+  rotate: false
+  xy: 48, 11
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+pao_x2
+  rotate: false
+  xy: 156, 11
+  size: 24, 35
+  orig: 24, 35
+  offset: 0, 0
+  index: -1
+pao_x3
+  rotate: false
+  xy: 75, 11
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+pao_x4
+  rotate: false
+  xy: 182, 11
+  size: 24, 35
+  orig: 24, 35
+  offset: 0, 0
+  index: -1
+pao_x5
+  rotate: false
+  xy: 208, 11
+  size: 24, 35
+  orig: 24, 35
+  offset: 0, 0
+  index: -1
+pao_x6
+  rotate: false
+  xy: 102, 11
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+pao_x7
+  rotate: false
+  xy: 234, 11
+  size: 24, 35
+  orig: 24, 35
+  offset: 0, 0
+  index: -1
+pao_x8
+  rotate: false
+  xy: 129, 11
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+qz01
+  rotate: false
+  xy: 2, 48
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1
+qz02
+  rotate: false
+  xy: 356, 48
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1
+qz03
+  rotate: true
+  xy: 518, 156
+  size: 352, 83
+  orig: 352, 83
+  offset: 0, 0
+  index: -1

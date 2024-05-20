@@ -1,0 +1,69 @@
+
+UDF_zhongxun.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 240
+  size: 347, 172
+  orig: 347, 172
+  offset: 0, 0
+  index: -1
+daqi_1
+  rotate: false
+  xy: 2, 414
+  size: 920, 425
+  orig: 920, 425
+  offset: 0, 0
+  index: -1
+huoyan_1
+  rotate: true
+  xy: 90, 129
+  size: 109, 45
+  orig: 109, 45
+  offset: 0, 0
+  index: -1
+huoyan_2
+  rotate: true
+  xy: 90, 19
+  size: 108, 44
+  orig: 108, 44
+  offset: 0, 0
+  index: -1
+xuanfu_1
+  rotate: true
+  xy: 2, 38
+  size: 200, 86
+  orig: 200, 86
+  offset: 0, 0
+  index: -1
+yy
+  rotate: true
+  xy: 351, 123
+  size: 289, 69
+  orig: 289, 69
+  offset: 0, 0
+  index: -1
+zh_31
+  rotate: false
+  xy: 924, 243
+  size: 834, 279
+  orig: 834, 279
+  offset: 0, 0
+  index: -1
+zh_32
+  rotate: true
+  xy: 1763, 2
+  size: 837, 279
+  orig: 837, 279
+  offset: 0, 0
+  index: -1
+zh_33
+  rotate: false
+  xy: 924, 524
+  size: 837, 315
+  orig: 837, 315
+  offset: 0, 0
+  index: -1

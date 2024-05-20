@@ -1,0 +1,48 @@
+
+jiulaimu_qingxun.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+liudong_1
+  rotate: false
+  xy: 376, 45
+  size: 15, 37
+  orig: 15, 37
+  offset: 0, 0
+  index: -1
+liudong_2
+  rotate: false
+  xy: 376, 238
+  size: 33, 61
+  orig: 33, 61
+  offset: 0, 0
+  index: -1
+liudong_3
+  rotate: false
+  xy: 376, 84
+  size: 21, 55
+  orig: 21, 55
+  offset: 0, 0
+  index: -1
+liudong_4
+  rotate: true
+  xy: 376, 141
+  size: 53, 26
+  orig: 53, 26
+  offset: 0, 0
+  index: -1
+liudong_5
+  rotate: true
+  xy: 376, 196
+  size: 40, 27
+  orig: 40, 27
+  offset: 0, 0
+  index: -1
+youling
+  rotate: false
+  xy: 2, 2
+  size: 372, 297
+  orig: 372, 297
+  offset: 0, 0
+  index: -1

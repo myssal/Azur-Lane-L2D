@@ -1,0 +1,146 @@
+
+chess_chuchun.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1-1
+  rotate: true
+  xy: 2, 3
+  size: 441, 425
+  orig: 441, 425
+  offset: 0, 0
+  index: -1
+1-2
+  rotate: true
+  xy: 848, 611
+  size: 404, 376
+  orig: 404, 376
+  offset: 0, 0
+  index: -1
+1-3
+  rotate: false
+  xy: 429, 68
+  size: 403, 406
+  orig: 403, 406
+  offset: 0, 0
+  index: -1
+1-4
+  rotate: true
+  xy: 421, 574
+  size: 441, 425
+  orig: 441, 425
+  offset: 0, 0
+  index: -1
+1-5
+  rotate: true
+  xy: 834, 88
+  size: 404, 376
+  orig: 404, 376
+  offset: 0, 0
+  index: -1
+2-1
+  rotate: true
+  xy: 1226, 643
+  size: 372, 275
+  orig: 372, 275
+  offset: 0, 0
+  index: -1
+2-2
+  rotate: true
+  xy: 1780, 643
+  size: 372, 255
+  orig: 372, 255
+  offset: 0, 0
+  index: -1
+2-3
+  rotate: true
+  xy: 1212, 222
+  size: 387, 340
+  orig: 387, 340
+  offset: 0, 0
+  index: -1
+2-4
+  rotate: true
+  xy: 1503, 643
+  size: 372, 275
+  orig: 372, 275
+  offset: 0, 0
+  index: -1
+2-5
+  rotate: false
+  xy: 1554, 386
+  size: 372, 255
+  orig: 372, 255
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 973, 2
+  size: 106, 84
+  orig: 106, 84
+  offset: 0, 0
+  index: -1
+chuan
+  rotate: false
+  xy: 2, 446
+  size: 417, 569
+  orig: 417, 569
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 772, 494
+  size: 140, 78
+  orig: 140, 78
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 834, 12
+  size: 137, 74
+  orig: 137, 74
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 1554, 73
+  size: 305, 311
+  orig: 305, 311
+  offset: 0, 0
+  index: -1
+fasi
+  rotate: true
+  xy: 512, 2
+  size: 64, 74
+  orig: 64, 74
+  offset: 0, 0
+  index: -1
+hair_b
+  rotate: false
+  xy: 588, 27
+  size: 114, 39
+  orig: 114, 39
+  offset: 0, 0
+  index: -1
+qi1
+  rotate: true
+  xy: 600, 482
+  size: 90, 170
+  orig: 90, 170
+  offset: 0, 0
+  index: -1
+qi2
+  rotate: true
+  xy: 421, 476
+  size: 96, 177
+  orig: 96, 177
+  offset: 0, 0
+  index: -1
+yishi
+  rotate: false
+  xy: 429, 7
+  size: 81, 59
+  orig: 81, 59
+  offset: 0, 0
+  index: -1

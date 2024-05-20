@@ -1,0 +1,48 @@
+
+fengfan_ghost_zibao.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ji
+  rotate: false
+  xy: 2, 33
+  size: 216, 220
+  orig: 216, 220
+  offset: 0, 0
+  index: -1
+zd01
+  rotate: true
+  xy: 220, 29
+  size: 224, 67
+  orig: 224, 67
+  offset: 0, 0
+  index: -1
+zd02
+  rotate: true
+  xy: 289, 29
+  size: 224, 67
+  orig: 224, 67
+  offset: 0, 0
+  index: -1
+zd03
+  rotate: true
+  xy: 358, 29
+  size: 224, 67
+  orig: 224, 67
+  offset: 0, 0
+  index: -1
+zhadan_1
+  rotate: true
+  xy: 427, 2
+  size: 125, 77
+  orig: 125, 77
+  offset: 0, 0
+  index: -1
+zhadan_2
+  rotate: true
+  xy: 427, 129
+  size: 124, 78
+  orig: 124, 78
+  offset: 0, 0
+  index: -1

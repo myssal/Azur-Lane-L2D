@@ -1,0 +1,69 @@
+
+boss_juyanlong.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 773
+  size: 1880, 991
+  orig: 1880, 991
+  offset: 0, 0
+  index: -1
+body_xiachibang
+  rotate: false
+  xy: 2, 2
+  size: 824, 769
+  orig: 824, 769
+  offset: 0, 0
+  index: -1
+houtui
+  rotate: false
+  xy: 828, 524
+  size: 375, 247
+  orig: 375, 247
+  offset: 0, 0
+  index: -1
+huoyan_1
+  rotate: true
+  xy: 828, 192
+  size: 330, 144
+  orig: 330, 144
+  offset: 0, 0
+  index: -1
+huoyan_2
+  rotate: true
+  xy: 974, 226
+  size: 296, 141
+  orig: 296, 141
+  offset: 0, 0
+  index: -1
+huoyan_3
+  rotate: true
+  xy: 1205, 290
+  size: 481, 196
+  orig: 481, 196
+  offset: 0, 0
+  index: -1
+huoyan_4
+  rotate: true
+  xy: 1884, 767
+  size: 497, 152
+  orig: 497, 152
+  offset: 0, 0
+  index: -1
+huoyan_5
+  rotate: true
+  xy: 1884, 1266
+  size: 498, 152
+  orig: 498, 152
+  offset: 0, 0
+  index: -1
+zhua
+  rotate: false
+  xy: 1117, 176
+  size: 140, 112
+  orig: 140, 112
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+qiuyuedanchuan.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 68, 410
+  size: 64, 68
+  orig: 64, 68
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 411
+  size: 64, 63
+  orig: 64, 63
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 701, 2
+  size: 472, 240
+  orig: 472, 240
+  offset: 0, 0
+  index: -1
+zx01
+  rotate: false
+  xy: 138, 367
+  size: 561, 107
+  orig: 561, 107
+  offset: 0, 0
+  index: -1
+zx02
+  rotate: false
+  xy: 2, 258
+  size: 561, 107
+  orig: 561, 107
+  offset: 0, 0
+  index: -1
+zx03
+  rotate: false
+  xy: 2, 149
+  size: 561, 107
+  orig: 561, 107
+  offset: 0, 0
+  index: -1

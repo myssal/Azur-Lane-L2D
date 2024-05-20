@@ -1,0 +1,90 @@
+
+jiulaimu_guowang.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 431
+  size: 584, 591
+  orig: 584, 591
+  offset: 0, 0
+  index: -1
+huangguan
+  rotate: false
+  xy: 2, 140
+  size: 208, 196
+  orig: 208, 196
+  offset: 0, 0
+  index: -1
+nu_1
+  rotate: false
+  xy: 2, 55
+  size: 98, 83
+  orig: 98, 83
+  offset: 0, 0
+  index: -1
+nu_2
+  rotate: false
+  xy: 505, 363
+  size: 72, 66
+  orig: 72, 66
+  offset: 0, 0
+  index: -1
+shuihua_1
+  rotate: true
+  xy: 588, 196
+  size: 826, 104
+  orig: 826, 104
+  offset: 0, 0
+  index: -1
+shuihua_2
+  rotate: true
+  xy: 795, 196
+  size: 826, 97
+  orig: 826, 97
+  offset: 0, 0
+  index: -1
+shuihua_3
+  rotate: true
+  xy: 694, 196
+  size: 826, 99
+  orig: 826, 99
+  offset: 0, 0
+  index: -1
+shuihua_4
+  rotate: true
+  xy: 894, 196
+  size: 826, 93
+  orig: 826, 93
+  offset: 0, 0
+  index: -1
+xx_1
+  rotate: false
+  xy: 102, 70
+  size: 52, 68
+  orig: 52, 68
+  offset: 0, 0
+  index: -1
+xx_2
+  rotate: true
+  xy: 2, 2
+  size: 51, 67
+  orig: 51, 67
+  offset: 0, 0
+  index: -1
+xx_3
+  rotate: false
+  xy: 212, 235
+  size: 76, 101
+  orig: 76, 101
+  offset: 0, 0
+  index: -1
+yy
+  rotate: false
+  xy: 2, 338
+  size: 501, 91
+  orig: 501, 91
+  offset: 0, 0
+  index: -1

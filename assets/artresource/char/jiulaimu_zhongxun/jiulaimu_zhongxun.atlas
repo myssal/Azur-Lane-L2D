@@ -1,0 +1,76 @@
+
+jiulaimu_zhongxun.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 89
+  size: 403, 266
+  orig: 403, 266
+  offset: 0, 0
+  index: -1
+fuzi
+  rotate: false
+  xy: 394, 41
+  size: 166, 191
+  orig: 166, 191
+  offset: 0, 0
+  index: -1
+jiu
+  rotate: true
+  xy: 454, 318
+  size: 174, 157
+  orig: 174, 157
+  offset: 0, 0
+  index: -1
+shuihua_1
+  rotate: true
+  xy: 270, 234
+  size: 258, 47
+  orig: 258, 47
+  offset: 0, 0
+  index: -1
+shuihua_2
+  rotate: true
+  xy: 366, 234
+  size: 258, 43
+  orig: 258, 43
+  offset: 0, 0
+  index: -1
+shuihua_3
+  rotate: true
+  xy: 319, 234
+  size: 258, 45
+  orig: 258, 45
+  offset: 0, 0
+  index: -1
+shuihua_4
+  rotate: true
+  xy: 411, 234
+  size: 258, 41
+  orig: 258, 41
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 562, 142
+  size: 125, 174
+  orig: 125, 174
+  offset: 0, 0
+  index: -1
+yy
+  rotate: false
+  xy: 2, 2
+  size: 385, 85
+  orig: 385, 85
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 270, 104
+  size: 128, 122
+  orig: 128, 122
+  offset: 0, 0
+  index: -1

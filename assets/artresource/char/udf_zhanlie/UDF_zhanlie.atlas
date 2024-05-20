@@ -1,0 +1,125 @@
+
+UDF_zhanlie.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 1506, 710
+  size: 496, 215
+  orig: 496, 215
+  offset: 0, 0
+  index: -1
+daqi_1
+  rotate: false
+  xy: 841, 2
+  size: 920, 425
+  orig: 920, 425
+  offset: 0, 0
+  index: -1
+hujia
+  rotate: false
+  xy: 1289, 820
+  size: 215, 105
+  orig: 215, 105
+  offset: 0, 0
+  index: -1
+huoyan_1
+  rotate: false
+  xy: 2, 895
+  size: 74, 30
+  orig: 74, 30
+  offset: 0, 0
+  index: -1
+huoyan_2
+  rotate: false
+  xy: 373, 869
+  size: 138, 56
+  orig: 138, 56
+  offset: 0, 0
+  index: -1
+huoyan_3
+  rotate: false
+  xy: 513, 868
+  size: 138, 57
+  orig: 138, 57
+  offset: 0, 0
+  index: -1
+huoyan_4
+  rotate: false
+  xy: 226, 894
+  size: 75, 31
+  orig: 75, 31
+  offset: 0, 0
+  index: -1
+pao_1
+  rotate: false
+  xy: 78, 895
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+pao_2
+  rotate: false
+  xy: 112, 895
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+pao_3
+  rotate: true
+  xy: 146, 895
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+pao_4
+  rotate: true
+  xy: 186, 895
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+penkou
+  rotate: false
+  xy: 303, 882
+  size: 68, 43
+  orig: 68, 43
+  offset: 0, 0
+  index: -1
+xuanfu
+  rotate: false
+  xy: 1016, 830
+  size: 271, 95
+  orig: 271, 95
+  offset: 0, 0
+  index: -1
+yy
+  rotate: false
+  xy: 653, 857
+  size: 361, 68
+  orig: 361, 68
+  offset: 0, 0
+  index: -1
+zh_31
+  rotate: false
+  xy: 2, 576
+  size: 834, 279
+  orig: 834, 279
+  offset: 0, 0
+  index: -1
+zh_32
+  rotate: false
+  xy: 838, 429
+  size: 837, 279
+  orig: 837, 279
+  offset: 0, 0
+  index: -1
+zh_33
+  rotate: false
+  xy: 2, 112
+  size: 837, 315
+  orig: 837, 315
+  offset: 0, 0
+  index: -1

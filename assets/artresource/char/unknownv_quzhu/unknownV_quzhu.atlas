@@ -1,0 +1,76 @@
+
+unknownV_quzhu.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: false
+  xy: 2, 2
+  size: 215, 246
+  orig: 215, 246
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: true
+  xy: 284, 7
+  size: 241, 128
+  orig: 241, 128
+  offset: 0, 0
+  index: -1
+body_2_swim
+  rotate: true
+  xy: 414, 7
+  size: 241, 128
+  orig: 241, 128
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 662, 141
+  size: 13, 21
+  orig: 13, 21
+  offset: 0, 0
+  index: -1
+shuihua_1
+  rotate: true
+  xy: 544, 42
+  size: 206, 40
+  orig: 206, 40
+  offset: 0, 0
+  index: -1
+shuihua_2
+  rotate: true
+  xy: 586, 42
+  size: 206, 37
+  orig: 206, 37
+  offset: 0, 0
+  index: -1
+shuihua_3
+  rotate: false
+  xy: 544, 2
+  size: 206, 38
+  orig: 206, 38
+  offset: 0, 0
+  index: -1
+shuihua_4
+  rotate: true
+  xy: 625, 42
+  size: 206, 35
+  orig: 206, 35
+  offset: 0, 0
+  index: -1
+tx
+  rotate: false
+  xy: 662, 164
+  size: 68, 84
+  orig: 68, 84
+  offset: 0, 0
+  index: -1
+yy
+  rotate: true
+  xy: 219, 2
+  size: 246, 63
+  orig: 246, 63
+  offset: 0, 0
+  index: -1

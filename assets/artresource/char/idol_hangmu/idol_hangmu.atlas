@@ -1,0 +1,69 @@
+
+idol_hangmu.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 91
+  size: 550, 409
+  orig: 550, 409
+  offset: 0, 0
+  index: -1
+guang_1
+  rotate: false
+  xy: 554, 166
+  size: 200, 156
+  orig: 200, 156
+  offset: 0, 0
+  index: -1
+guang_2
+  rotate: true
+  xy: 554, 68
+  size: 96, 186
+  orig: 96, 186
+  offset: 0, 0
+  index: -1
+guang_3
+  rotate: false
+  xy: 756, 217
+  size: 180, 105
+  orig: 180, 105
+  offset: 0, 0
+  index: -1
+guang_4
+  rotate: true
+  xy: 742, 31
+  size: 100, 118
+  orig: 100, 118
+  offset: 0, 0
+  index: -1
+guang_5
+  rotate: false
+  xy: 756, 133
+  size: 185, 82
+  orig: 185, 82
+  offset: 0, 0
+  index: -1
+hm01
+  rotate: false
+  xy: 2, 2
+  size: 410, 87
+  orig: 410, 87
+  offset: 0, 0
+  index: -1
+hm02
+  rotate: false
+  xy: 554, 413
+  size: 410, 87
+  orig: 410, 87
+  offset: 0, 0
+  index: -1
+hm03
+  rotate: false
+  xy: 554, 324
+  size: 410, 87
+  orig: 410, 87
+  offset: 0, 0
+  index: -1
