@@ -1,0 +1,23 @@
+{
+  "Version": 3,
+  "Meta": {
+    "Duration": 0.0,
+    "Fps": 60.0,
+    "Loop": true,
+    "AreBeziersRestricted": true,
+    "FadeInTime": 0.0,
+    "FadeOutTime": 0.0,
+    "CurveCount": 0,
+    "TotalSegmentCount": 1,
+    "TotalPointCount": 1,
+    "UserDataCount": 1,
+    "TotalUserDataSize": 0
+  },
+  "Curves": [],
+  "UserData": [
+    {
+      "Time": 0.0,
+      "Value": ""
+    }
+  ]
+}

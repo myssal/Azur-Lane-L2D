@@ -1,0 +1,27 @@
+
+feiji_huiguangzhihe.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cb_L
+  rotate: false
+  xy: 310, 2
+  size: 207, 175
+  orig: 207, 175
+  offset: 0, 0
+  index: -1
+cb_R
+  rotate: false
+  xy: 2, 5
+  size: 306, 172
+  orig: 306, 172
+  offset: 0, 0
+  index: -1
+core
+  rotate: false
+  xy: 519, 16
+  size: 87, 161
+  orig: 87, 161
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+unknownV_zibao.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 690, 2
+  size: 217, 218
+  orig: 217, 218
+  offset: 0, 0
+  index: -1
+shuihua_1
+  rotate: false
+  xy: 346, 116
+  size: 342, 52
+  orig: 342, 52
+  offset: 0, 0
+  index: -1
+shuihua_2
+  rotate: false
+  xy: 346, 170
+  size: 342, 49
+  orig: 342, 49
+  offset: 0, 0
+  index: -1
+shuihua_3
+  rotate: false
+  xy: 2, 120
+  size: 342, 50
+  orig: 342, 50
+  offset: 0, 0
+  index: -1
+shuihua_4
+  rotate: false
+  xy: 2, 172
+  size: 342, 47
+  orig: 342, 47
+  offset: 0, 0
+  index: -1

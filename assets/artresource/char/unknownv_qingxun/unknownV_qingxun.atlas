@@ -1,0 +1,48 @@
+
+unknownV_qingxun.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 423
+  size: 618, 313
+  orig: 618, 313
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: false
+  xy: 2, 108
+  size: 618, 313
+  orig: 618, 313
+  offset: 0, 0
+  index: -1
+lanchushou_1
+  rotate: true
+  xy: 769, 463
+  size: 273, 82
+  orig: 273, 82
+  offset: 0, 0
+  index: -1
+lanchushou_2
+  rotate: false
+  xy: 2, 2
+  size: 386, 104
+  orig: 386, 104
+  offset: 0, 0
+  index: -1
+lanchushou_3
+  rotate: false
+  xy: 622, 116
+  size: 98, 48
+  orig: 98, 48
+  offset: 0, 0
+  index: -1
+yy
+  rotate: true
+  xy: 622, 166
+  size: 570, 145
+  orig: 570, 145
+  offset: 0, 0
+  index: -1

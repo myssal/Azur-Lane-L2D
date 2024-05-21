@@ -1,0 +1,34 @@
+
+unknownV_qianting.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 433
+  size: 581, 338
+  orig: 581, 338
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: false
+  xy: 2, 93
+  size: 581, 338
+  orig: 581, 338
+  offset: 0, 0
+  index: -1
+guanquan_1
+  rotate: false
+  xy: 585, 634
+  size: 53, 137
+  orig: 53, 137
+  offset: 0, 0
+  index: -1
+guanquan_2
+  rotate: false
+  xy: 2, 2
+  size: 42, 89
+  orig: 42, 89
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+unknownV_zhongxun.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 132
+  size: 546, 364
+  orig: 546, 364
+  offset: 0, 0
+  index: -1
+body_swim
+  rotate: true
+  xy: 550, 2
+  size: 546, 364
+  orig: 546, 364
+  offset: 0, 0
+  index: -1
+chushou_1
+  rotate: false
+  xy: 684, 653
+  size: 86, 80
+  orig: 86, 80
+  offset: 0, 0
+  index: -1
+chushou_2
+  rotate: true
+  xy: 880, 713
+  size: 79, 91
+  orig: 79, 91
+  offset: 0, 0
+  index: -1
+chushou_3
+  rotate: false
+  xy: 772, 550
+  size: 207, 161
+  orig: 207, 161
+  offset: 0, 0
+  index: -1
+di
+  rotate: true
+  xy: 2, 774
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1
+diheng
+  rotate: false
+  xy: 804, 734
+  size: 74, 58
+  orig: 74, 58
+  offset: 0, 0
+  index: -1
+diheng_2
+  rotate: true
+  xy: 716, 735
+  size: 57, 86
+  orig: 57, 86
+  offset: 0, 0
+  index: -1
+shuihua_1
+  rotate: false
+  xy: 343, 673
+  size: 339, 61
+  orig: 339, 61
+  offset: 0, 0
+  index: -1
+shuihua_2
+  rotate: false
+  xy: 375, 736
+  size: 339, 56
+  orig: 339, 56
+  offset: 0, 0
+  index: -1
+shuihua_3
+  rotate: false
+  xy: 2, 679
+  size: 339, 58
+  orig: 339, 58
+  offset: 0, 0
+  index: -1
+shuihua_4
+  rotate: false
+  xy: 34, 739
+  size: 339, 53
+  orig: 339, 53
+  offset: 0, 0
+  index: -1
+yy
+  rotate: false
+  xy: 2, 498
+  size: 523, 173
+  orig: 523, 173
+  offset: 0, 0
+  index: -1

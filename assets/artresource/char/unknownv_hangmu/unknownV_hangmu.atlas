@@ -1,0 +1,97 @@
+
+unknownV_hangmu.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 405
+  size: 578, 262
+  orig: 578, 262
+  offset: 0, 0
+  index: -1
+guandao
+  rotate: false
+  xy: 2, 230
+  size: 198, 173
+  orig: 198, 173
+  offset: 0, 0
+  index: -1
+houchushou_1
+  rotate: true
+  xy: 434, 70
+  size: 137, 67
+  orig: 137, 67
+  offset: 0, 0
+  index: -1
+houchushou_2
+  rotate: true
+  xy: 2, 27
+  size: 201, 134
+  orig: 201, 134
+  offset: 0, 0
+  index: -1
+houchushou_2_swim
+  rotate: false
+  xy: 202, 257
+  size: 201, 134
+  orig: 201, 134
+  offset: 0, 0
+  index: -1
+qianchushou_1
+  rotate: true
+  xy: 405, 260
+  size: 131, 79
+  orig: 131, 79
+  offset: 0, 0
+  index: -1
+qianchushou_2
+  rotate: true
+  xy: 138, 30
+  size: 132, 160
+  orig: 132, 160
+  offset: 0, 0
+  index: -1
+qianchushou_2_swim
+  rotate: false
+  xy: 300, 2
+  size: 132, 160
+  orig: 132, 160
+  offset: 0, 0
+  index: -1
+shuihua_1
+  rotate: true
+  xy: 458, 706
+  size: 277, 49
+  orig: 277, 49
+  offset: 0, 0
+  index: -1
+shuihua_2
+  rotate: false
+  xy: 202, 209
+  size: 277, 46
+  orig: 277, 46
+  offset: 0, 0
+  index: -1
+shuihua_3
+  rotate: true
+  xy: 458, 427
+  size: 277, 47
+  orig: 277, 47
+  offset: 0, 0
+  index: -1
+shuihua_4
+  rotate: false
+  xy: 138, 164
+  size: 277, 43
+  orig: 277, 43
+  offset: 0, 0
+  index: -1
+yy
+  rotate: true
+  xy: 266, 393
+  size: 590, 190
+  orig: 590, 190
+  offset: 0, 0
+  index: -1

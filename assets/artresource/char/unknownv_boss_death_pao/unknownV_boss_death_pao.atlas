@@ -1,0 +1,20 @@
+
+unknownV_boss_death_pao.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Jz2_1
+  rotate: false
+  xy: 2, 2
+  size: 129, 105
+  orig: 129, 105
+  offset: 0, 0
+  index: -1
+Jz2_2
+  rotate: true
+  xy: 133, 29
+  size: 78, 30
+  orig: 78, 30
+  offset: 0, 0
+  index: -1

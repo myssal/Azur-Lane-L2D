@@ -1,0 +1,139 @@
+
+unknownV_zhanlie.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 627
+  size: 523, 388
+  orig: 523, 388
+  offset: 0, 0
+  index: -1
+body_swim
+  rotate: false
+  xy: 2, 237
+  size: 523, 388
+  orig: 523, 388
+  offset: 0, 0
+  index: -1
+ding
+  rotate: false
+  xy: 842, 394
+  size: 45, 49
+  orig: 45, 49
+  offset: 0, 0
+  index: -1
+faguang
+  rotate: false
+  xy: 903, 685
+  size: 108, 169
+  orig: 108, 169
+  offset: 0, 0
+  index: -1
+guangxiao_1
+  rotate: false
+  xy: 1007, 502
+  size: 15, 61
+  orig: 15, 61
+  offset: 0, 0
+  index: -1
+guangxiao_11
+  rotate: true
+  xy: 221, 17
+  size: 30, 76
+  orig: 30, 76
+  offset: 0, 0
+  index: -1
+guangxiao_12
+  rotate: false
+  xy: 842, 482
+  size: 43, 139
+  orig: 43, 139
+  offset: 0, 0
+  index: -1
+guangxiao_13
+  rotate: false
+  xy: 842, 623
+  size: 59, 231
+  orig: 59, 231
+  offset: 0, 0
+  index: -1
+guangxiao_2
+  rotate: false
+  xy: 991, 890
+  size: 27, 125
+  orig: 27, 125
+  offset: 0, 0
+  index: -1
+guangxiao_3
+  rotate: true
+  xy: 2, 2
+  size: 45, 217
+  orig: 45, 217
+  offset: 0, 0
+  index: -1
+houjiao
+  rotate: false
+  xy: 903, 565
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+houjiao_swim
+  rotate: false
+  xy: 887, 445
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+shuihua_1
+  rotate: true
+  xy: 527, 234
+  size: 781, 82
+  orig: 781, 82
+  offset: 0, 0
+  index: -1
+shuihua_2
+  rotate: true
+  xy: 691, 234
+  size: 781, 76
+  orig: 781, 76
+  offset: 0, 0
+  index: -1
+shuihua_3
+  rotate: true
+  xy: 611, 234
+  size: 781, 78
+  orig: 781, 78
+  offset: 0, 0
+  index: -1
+shuihua_4
+  rotate: true
+  xy: 769, 234
+  size: 781, 71
+  orig: 781, 71
+  offset: 0, 0
+  index: -1
+tinei
+  rotate: false
+  xy: 2, 49
+  size: 316, 186
+  orig: 316, 186
+  offset: 0, 0
+  index: -1
+weiguan
+  rotate: false
+  xy: 842, 856
+  size: 147, 159
+  orig: 147, 159
+  offset: 0, 0
+  index: -1
+yy
+  rotate: false
+  xy: 320, 35
+  size: 585, 197
+  orig: 585, 197
+  offset: 0, 0
+  index: -1

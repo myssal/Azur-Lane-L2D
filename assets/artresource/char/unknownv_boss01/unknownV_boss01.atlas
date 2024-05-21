@@ -1,0 +1,104 @@
+
+unknownV_boss01.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bo
+  rotate: true
+  xy: 2, 136
+  size: 154, 284
+  orig: 154, 284
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 1262
+  size: 754, 728
+  orig: 754, 728
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: true
+  xy: 758, 1236
+  size: 754, 728
+  orig: 754, 728
+  offset: 0, 0
+  index: -1
+body_2_swim
+  rotate: true
+  xy: 2, 506
+  size: 754, 728
+  orig: 754, 728
+  offset: 0, 0
+  index: -1
+body_swim
+  rotate: false
+  xy: 732, 473
+  size: 754, 728
+  orig: 754, 728
+  offset: 0, 0
+  index: -1
+chushou_1
+  rotate: true
+  xy: 1098, 392
+  size: 79, 110
+  orig: 79, 110
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 732, 1203
+  size: 23, 57
+  orig: 23, 57
+  offset: 0, 0
+  index: -1
+gua
+  rotate: false
+  xy: 1011, 390
+  size: 85, 81
+  orig: 85, 81
+  offset: 0, 0
+  index: -1
+shuihua_1
+  rotate: false
+  xy: 288, 221
+  size: 388, 69
+  orig: 388, 69
+  offset: 0, 0
+  index: -1
+shuihua_2
+  rotate: false
+  xy: 1210, 339
+  size: 388, 64
+  orig: 388, 64
+  offset: 0, 0
+  index: -1
+shuihua_3
+  rotate: false
+  xy: 1210, 405
+  size: 388, 66
+  orig: 388, 66
+  offset: 0, 0
+  index: -1
+shuihua_4
+  rotate: true
+  xy: 1098, 2
+  size: 388, 60
+  orig: 388, 60
+  offset: 0, 0
+  index: -1
+tanzhaodeng
+  rotate: false
+  xy: 722, 235
+  size: 287, 236
+  orig: 287, 236
+  offset: 0, 0
+  index: -1
+yy
+  rotate: false
+  xy: 2, 292
+  size: 718, 212
+  orig: 718, 212
+  offset: 0, 0
+  index: -1

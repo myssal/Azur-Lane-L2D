@@ -1,0 +1,111 @@
+
+boss_huiguangzhihe.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang_bx1
+  rotate: false
+  xy: 987, 1121
+  size: 975, 902
+  orig: 975, 902
+  offset: 0, 0
+  index: -1
+guang_bx2
+  rotate: false
+  xy: 2, 1100
+  size: 983, 923
+  orig: 983, 923
+  offset: 0, 0
+  index: -1
+guangxiao_l
+  rotate: false
+  xy: 2, 600
+  size: 453, 498
+  orig: 453, 498
+  offset: 0, 0
+  index: -1
+guangxiao_r
+  rotate: true
+  xy: 2, 16
+  size: 571, 490
+  orig: 571, 490
+  offset: 0, 0
+  index: -1
+guangyi_l
+  rotate: true
+  xy: 494, 411
+  size: 687, 468
+  orig: 687, 468
+  offset: 0, 0
+  index: -1
+guangyi_r
+  rotate: false
+  xy: 987, 589
+  size: 941, 530
+  orig: 941, 530
+  offset: 0, 0
+  index: -1
+shuijing
+  rotate: false
+  xy: 1167, 92
+  size: 182, 330
+  orig: 182, 330
+  offset: 0, 0
+  index: -1
+wing_L1
+  rotate: false
+  xy: 1030, 67
+  size: 135, 355
+  orig: 135, 355
+  offset: 0, 0
+  index: -1
+wing_L1_B
+  rotate: true
+  xy: 964, 424
+  size: 163, 232
+  orig: 163, 232
+  offset: 0, 0
+  index: -1
+wing_L2
+  rotate: true
+  xy: 1351, 143
+  size: 317, 311
+  orig: 317, 311
+  offset: 0, 0
+  index: -1
+wing_L2_B
+  rotate: false
+  xy: 1198, 462
+  size: 257, 125
+  orig: 257, 125
+  offset: 0, 0
+  index: -1
+wing_R1
+  rotate: false
+  xy: 866, 44
+  size: 162, 365
+  orig: 162, 365
+  offset: 0, 0
+  index: -1
+wing_R1_B
+  rotate: true
+  xy: 1756, 348
+  size: 239, 247
+  orig: 239, 247
+  offset: 0, 0
+  index: -1
+wing_R2
+  rotate: true
+  xy: 494, 2
+  size: 407, 370
+  orig: 407, 370
+  offset: 0, 0
+  index: -1
+wing_R2_B
+  rotate: false
+  xy: 1457, 464
+  size: 297, 123
+  orig: 297, 123
+  offset: 0, 0
+  index: -1

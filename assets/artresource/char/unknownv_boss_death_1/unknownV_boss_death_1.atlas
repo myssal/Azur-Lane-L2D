@@ -1,0 +1,34 @@
+
+unknownV_boss_death_1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 2
+  size: 1968, 1016
+  orig: 1968, 1016
+  offset: 0, 0
+  index: -1
+body_swim_yuqi
+  rotate: false
+  xy: 314, 1059
+  size: 510, 298
+  orig: 510, 298
+  offset: 0, 0
+  index: -1
+yuqi_f1
+  rotate: false
+  xy: 2, 1183
+  size: 310, 174
+  orig: 310, 174
+  offset: 0, 0
+  index: -1
+yuqi_f2
+  rotate: false
+  xy: 826, 1020
+  size: 495, 337
+  orig: 495, 337
+  offset: 0, 0
+  index: -1
